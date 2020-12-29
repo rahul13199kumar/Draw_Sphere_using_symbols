@@ -5,6 +5,8 @@ import math
  
 shades = ('.',':','!','*','o','e','&','#','%','@')
  
+	##shades = ('1','2','3','4','5','6','7','8','9','10')
+	## we can use any numeric , alphabets, symbol for making sphere in this program..
 def normalize(v):
 	len = math.sqrt(v[0]**2 + v[1]**2 + v[2]**2)
 	return (v[0]/len, v[1]/len, v[2]/len)
