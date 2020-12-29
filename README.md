@@ -1,2 +1,5 @@
-# Draw_Sphere_using_symbols
+# Description 
 Draw amazing sphere using symbols , digits, alphabets.
+
+# Screenshots
+
